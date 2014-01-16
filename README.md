@@ -27,7 +27,7 @@ bong开放平台可以提供接口，在用户授权的状况下提供用户的�
 
 因为现在开放平台还处于内部测试阶段，感兴趣的开发者请直接添加微信bong开发者俱乐部，和我们聊聊你的想法。
 
-
+![image](https://github.com/Ginshell/bongOpenPlatform/blob/master/documents/qrcode.jpg?raw=true)
 ````
 比如下面的话题，但不限于下面话题：
 
