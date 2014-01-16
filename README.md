@@ -1,7 +1,7 @@
 bongOpenPlatform
 ================
 
-![image](https://github.com/Ginshell/bongOpenPlatform/blob/master/documents/cover.png)
+![image](https://github.com/Ginshell/bongOpenPlatform/blob/master/documents/cover.png?raw=true)
 
 ###bong开放平台
 
