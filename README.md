@@ -42,6 +42,13 @@ bong开放平台可以提供接口，在用户授权的状况下提供用户的�
 #### 开发环境
 开放平台现在开放的是app内置的插件区域，插件区域以html5的形式通过用户授权来展现。
 
+
+![image](https://github.com/Ginshell/bongOpenPlatform/blob/master/documents/setting1.jpg?raw=true)
+
+
+![image](https://github.com/Ginshell/bongOpenPlatform/blob/master/documents/setting2.jpg?raw=true)
+
+
 #### 成为bong开发者你可以获得...
 
 - 每次bong有了重大的硬件软件更新你会最先获得通知，甚至可能我们会邮寄一个测试中的手环给你，帮助你完成插件的开发工作。
@@ -112,7 +119,7 @@ bong开放平台可以提供接口，在用户授权的状况下提供用户的�
 
 假设有2个小组参与了这个小游戏，其中：
 
-- A小组，成功完成了任务。获得55个活跃点。（比不参加任务多获得55-42=7个活跃点)
+- A小组，成功完成了任务。获得55个活跃点。（比不参加任务多获得55-42=13个活跃点)
 - B小组，任务失败。总共运动了300分钟，获得0个活跃点。（比不参加任务少获得30个活跃点)
 
 开发者可以获得
@@ -141,9 +148,9 @@ bong开放平台可以提供接口，在用户授权的状况下提供用户的�
 
 <tr>
 <td> 总计 </td>
-<td> 85.8 </td>
-<td> 55 </td>
-<td> 30.8 </td>
+<td> 79.2 </td>
+<td> 55  </td>
+<td> 24.2 </td>
 </tr>
 
 </table>
