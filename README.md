@@ -1,11 +1,11 @@
-bong开放平台
+bong 开放平台
 ================
 
 ![image](https://github.com/Ginshell/bongOpenPlatform/blob/master/documents/cover.png?raw=true)
 
 #### 介绍
 
-bong开放平台可以提供接口，在用户授权的状况下提供用户的运动和睡眠数据给开发者，开发者可以向bong团队申请开发资格。
+bong 开放平台可以提供接口，在用户授权的状况下提供用户的运动和睡眠数据给开发者，开发者可以向bong团队申请开发资格。
 
 
 
