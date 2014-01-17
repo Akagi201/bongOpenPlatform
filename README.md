@@ -46,7 +46,7 @@ bong开放平台可以提供接口，在用户授权的状况下提供用户的�
 ![image](https://github.com/Ginshell/bongOpenPlatform/blob/master/documents/setting1.jpg?raw=true)
 
 
-![image](https://github.com/Ginshell/bongOpenPlatform/blob/master/documents/setting2.jpg?raw=true)
+![image](https://github.com/Ginshell/bongOpenPlatform/blob/master/documents/Setting2.jpg?raw=true)
 
 
 #### 成为bong开发者你可以获得...
