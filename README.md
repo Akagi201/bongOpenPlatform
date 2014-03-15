@@ -17,7 +17,9 @@ bong是一款健康运动手环,详情请参见[bong](http://www.bong.cn/)官方
 # bong首次开放日接口文档
 接口需要用户授权。我们目前拟定开放的接口有：
 
-## UserData：用户基本数据主要涵盖的是用户的一些基本情况UserId：用户的ID
+## UserData
+
+用户基本数据主要涵盖的是用户的一些基本情况UserId：用户的ID
 
 - UserName：在bong使用的用户昵称
 - Gender：用户的性别
@@ -26,7 +28,9 @@ bong是一款健康运动手环,详情请参见[bong](http://www.bong.cn/)官方
 - SleepTarget：用户给自己设定的睡眠长度目标
 - isTied：用户是否连接了bong手环
 
-## bongBlock：bong开放平台能够提供某个用户的某一段运动，根据用户的ID和运动时间即可获得。
+## bongBlock
+
+bong开放平台能够提供某个用户的某一段运动，根据用户的ID和运动时间即可获得。
 
 - userId：这一段运动所属于的用户
 - ID：一段运动的ID
@@ -37,7 +41,9 @@ bong是一款健康运动手环,详情请参见[bong](http://www.bong.cn/)官方
 - steps：一共走了多少步
 - distance：一共走了多远
 
-## nobongBlock：bong开放平台能够提供某个用户的某一段非bong状态的情况，根据用户的ID和时间即可获得。
+## nobongBlock
+
+bong开放平台能够提供某个用户的某一段非bong状态的情况，根据用户的ID和时间即可获得。
 
 - userId：这一段非bong所属于的用户
 - ID：一段非bong的ID
