@@ -101,7 +101,7 @@ bong开放平台能够提供某个用户的某一段非bong状态的情况，根
 
 [原型提交入口](http://oliverchen.cn/vote)
 
-[作品git文件夹](https://github.com/Ginshell/bongOpenPlatform/blob/master/proto/)
+[作品也可以放到proto文件夹下](https://github.com/Ginshell/bongOpenPlatform/blob/master/proto/)
 
 **其他问题，可以联系小q(thisismyid1234）或者在『bong开放日』群中提出，我们会及时解答，也可以发到 github 上的 issue tracker 里**
 
