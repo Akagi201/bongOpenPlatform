@@ -19,8 +19,9 @@ bong是一款健康运动手环,详情请参见[bong](http://www.bong.cn/)官方
 
 ## UserData
 
-用户基本数据主要涵盖的是用户的一些基本情况UserId：用户的ID
+用户基本数据主要涵盖的是用户的一些基本情况
 
+- UserId：用户的ID
 - UserName：在bong使用的用户昵称
 - Gender：用户的性别
 - BornYear：用户的出生年
